@@ -3,7 +3,7 @@ Simple functions to implement into .bashrc or .zshrc to make running the python 
 
 Once appended onto your respective shell, 
 
-httphere <port number>
+httphere [a port number]
   - will start a simple HTTP server bound to said port argument on localhost in the _CURRENT_ directory
   - creates a log file in the _CURRENT_ directory aswell
   - logs the process ID, as SimpleHTTPServer is executed as a background process with no hangup, so the terminal can be freely closed
