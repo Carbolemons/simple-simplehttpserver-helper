@@ -14,3 +14,6 @@ killhttphere
 ## REQUIRES
 This requires Python libraries to be installed on your machine, and all other Python doodads
 A terminal, BASH, ZSH, whatever. I think the BASH one will work for most, but there was a weird quirk with ZSH that required double brackets
+
+### Use cases!
+Makes web dev simpler, if all you need to do is worry about aesthetics before implementing or pushing to a live server that has all the PHP and database bells and whistles. Obv, if you want to use PHP and DB stuff, you will need to set up an apache or nginx environment on your dev machine, but for now I wanted this and it works
